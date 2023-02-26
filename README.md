@@ -11,7 +11,7 @@
 - ChatGPT
 
 ##### Importante:
-El archivo "contenido.txt" es donde se escribirá el texto recibido no modifacar y descargarlo obligatoriamente(se encuentra vacio).
+El archivo "contenido.txt" es donde se escribirá el texto recibido, no modificar y descargarlo obligatoriamente(se encuentra vacio).
 
 ### Instalar Librerias:
 Para poder reconocer la entrada de audio y convertirla en audio
